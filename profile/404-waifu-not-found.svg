@@ -1,17 +1,16 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">404 Waifu Not Found</title>
   <desc id="desc">Pink ASCII text banner for 404 Waifu Not Found.</desc>
-  <rect width="1200" height="420" fill="#FFF7FB"/>
-  <text x="84" y="92" font-family="'Cascadia Code', 'Fira Code', monospace" font-size="28" xml:space="preserve">
-    <tspan x="84" dy="0" fill="#D14D86">      /\_/\</tspan>
-    <tspan x="84" dy="38" fill="#D14D86">     ( o.o )     404 WAIFU NOT FOUND</tspan>
-    <tspan x="84" dy="38" fill="#D14D86">      &gt; ^ &lt;      scanning /heart/sys for best girl...</tspan>
-    <tspan x="84" dy="52" fill="#E276A3"> </tspan>
-    <tspan x="84" dy="38" fill="#C43D76">   +----------------------------------------------+</tspan>
-    <tspan x="84" dy="38" fill="#C43D76">   | ERR_404: waifu.js missing                    |</tspan>
-    <tspan x="84" dy="38" fill="#C43D76">   | ACTION : build --moe --chaos --cute          |</tspan>
-    <tspan x="84" dy="38" fill="#C43D76">   | STATUS : compiling tsundere personality...   |</tspan>
-    <tspan x="84" dy="38" fill="#C43D76">   +----------------------------------------------+</tspan>
-    <tspan x="84" dy="52" fill="#E58BB2">   // code is temporary. waifu is eternal.</tspan>
+  <text x="18" y="92" font-family="'Cascadia Code', 'Fira Code', monospace" font-size="28" xml:space="preserve">
+    <tspan x="18" dy="0" fill="#D14D86">      /\_/\</tspan>
+    <tspan x="18" dy="38" fill="#D14D86">     ( o.o )     404 WAIFU NOT FOUND</tspan>
+    <tspan x="18" dy="38" fill="#D14D86">      &gt; ^ &lt;      scanning /heart/sys for best girl...</tspan>
+    <tspan x="18" dy="52" fill="#E276A3"> </tspan>
+    <tspan x="18" dy="38" fill="#C43D76">   +----------------------------------------------+</tspan>
+    <tspan x="18" dy="38" fill="#C43D76">   | ERR_404: waifu.js missing                    |</tspan>
+    <tspan x="18" dy="38" fill="#C43D76">   | ACTION : build --moe --chaos --cute          |</tspan>
+    <tspan x="18" dy="38" fill="#C43D76">   | STATUS : compiling tsundere personality...   |</tspan>
+    <tspan x="18" dy="38" fill="#C43D76">   +----------------------------------------------+</tspan>
+    <tspan x="18" dy="52" fill="#E58BB2">   // code is temporary. waifu is eternal.</tspan>
   </text>
 </svg>
