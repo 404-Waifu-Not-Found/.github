@@ -1,11 +1,8 @@
-# 🌸 404 Waifu Not Found
+![404 Waifu Not Found](./intro-title.svg)
 
-> *Error 404: Waifu not found… compiling one instead.*
+![404 Waifu Not Found](./404-waifu-not-found.svg)
 
 Welcome to the **404 Waifu Not Found** GitHub Organization — a place where **anime culture meets coding chaos**. We build fun, experimental, and occasionally cursed projects inspired by **otaku culture, memes, and technology**.
-
-Whether it's AI-generated anime characters, anime-themed developer tools, or absurd hackathon experiments, this is where we turn ideas into code.
-
 ---
 
 ## ✨ About
@@ -22,20 +19,6 @@ This organization was created for developers who enjoy **coding, anime, memes, a
 
 ---
 
-## 🚀 Projects
-
-Some types of projects you might find here:
-
-* **AI Waifu Generator** – Generate anime characters with AI
-* **Anime Discord Bots** – Bots with anime-themed commands and features
-* **Anime Dev Tools** – Coding tools with an anime twist
-* **Hackathon Projects** – Experimental prototypes and rapid builds
-* **Games & Simulators** – Small anime-themed games or simulations
-
-More projects coming soon…
-
----
-
 ## 🛠 Tech Stack
 
 Our projects may use a mix of technologies including:
@@ -49,36 +32,6 @@ Our projects may use a mix of technologies including:
 * APIs and bots
 
 We like experimenting with **new tools, frameworks, and ideas**.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-Ways you can contribute:
-
-* Submit pull requests
-* Open issues for ideas or bugs
-* Improve documentation
-* Build new anime-themed tools
-
-Steps:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a pull request
-
----
-
-## 🎯 Goals
-
-* Build fun open-source projects
-* Experiment with AI + anime
-* Create meme-worthy developer tools
-* Participate in hackathons
-* Grow a community of anime-loving developers
 
 ---
 
@@ -109,21 +62,9 @@ If you enjoy:
 Then you're in the right place.
 
 ---
-
 ## ⚠️ Disclaimer
 
 This organization is primarily for **fun, experimentation, and learning**. Expect chaotic commits, experimental ideas, and occasionally cursed code.
-
----
-
-## ⭐ Support
-
-If you like what we build:
-
-* ⭐ Star our repositories
-* 🍴 Fork projects
-* 🧑‍💻 Contribute
-* Share with fellow developers
 
 ---
 

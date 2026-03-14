@@ -1,0 +1,18 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">404 Waifu Not Found intro</title>
+  <desc id="desc">Pink title and quote for the profile README.</desc>
+  <defs>
+    <linearGradient id="titleGradient" x1="72" y1="32" x2="650" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF9CC3"/>
+      <stop offset="0.5" stop-color="#E85A97"/>
+      <stop offset="1" stop-color="#C93F79"/>
+    </linearGradient>
+    <linearGradient id="quoteGradient" x1="72" y1="106" x2="900" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D95A92"/>
+      <stop offset="1" stop-color="#F08FB7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" rx="24" fill="#FFF7FB"/>
+  <text x="72" y="82" fill="url(#titleGradient)" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-size="52" font-weight="800">404 Waifu Not Found</text>
+  <text x="72" y="136" fill="url(#quoteGradient)" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-size="28" font-style="italic">Error 404: Waifu not found... compiling one instead.</text>
+</svg>
